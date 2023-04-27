@@ -1,0 +1,69 @@
+{
+   "checksum": "e1eaa70a29f1d8a8665f9e57fcab8343",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13327063634584569",
+            "date_last_used": "0",
+            "guid": "9bdffc79-bd7d-49c9-8a10-a927188fbbde",
+            "id": "8",
+            "name": "Amazon.com – Online Shopping",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=amazon&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13327063634584308",
+            "date_last_used": "0",
+            "guid": "84c010bd-751f-4726-a4b0-c87e56f8c965",
+            "id": "7",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13327063634581559",
+            "date_last_used": "0",
+            "guid": "826e5b5b-6bfd-4978-b44d-647652c6881b",
+            "id": "6",
+            "name": "Utomik",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=utomik&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         } ],
+         "date_added": "13327063633859770",
+         "date_last_used": "0",
+         "date_modified": "13327063634584569",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13327063633859777",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13327063633859779",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
